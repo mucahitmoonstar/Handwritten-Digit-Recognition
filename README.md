@@ -21,24 +21,43 @@ A Convolutional Neural Network (CNN) is a specialized type of deep learning mode
 enabling them to perform tasks like image classification and object detection effectively.
 
 Epoch 1/10
+
 1875/1875 ━━━━━━━━━━━━━━━━━━━━ 8s 4ms/step - accuracy: 0.9132 - loss: 0.2849 - val_accuracy: 0.9852 - val_loss: 0.0456
+
 Epoch 2/10
+
 1875/1875 ━━━━━━━━━━━━━━━━━━━━ 7s 4ms/step - accuracy: 0.9853 - loss: 0.0461 - val_accuracy: 0.9901 - val_loss: 0.0323
+
 Epoch 3/10
+
 1875/1875 ━━━━━━━━━━━━━━━━━━━━ 7s 4ms/step - accuracy: 0.9915 - loss: 0.0276 - val_accuracy: 0.9877 - val_loss: 0.0358
+
 Epoch 4/10
+
 1875/1875 ━━━━━━━━━━━━━━━━━━━━ 8s 4ms/step - accuracy: 0.9938 - loss: 0.0197 - val_accuracy: 0.9903 - val_loss: 0.0293
+
 Epoch 5/10
+
 1875/1875 ━━━━━━━━━━━━━━━━━━━━ 9s 5ms/step - accuracy: 0.9952 - loss: 0.0153 - val_accuracy: 0.9884 - val_loss: 0.0404
+
 Epoch 6/10
+
 1875/1875 ━━━━━━━━━━━━━━━━━━━━ 9s 5ms/step - accuracy: 0.9967 - loss: 0.0116 - val_accuracy: 0.9881 - val_loss: 0.0377
+
 Epoch 7/10
+
 1875/1875 ━━━━━━━━━━━━━━━━━━━━ 9s 5ms/step - accuracy: 0.9971 - loss: 0.0086 - val_accuracy: 0.9877 - val_loss: 0.0460
+
 Epoch 8/10
+
 1875/1875 ━━━━━━━━━━━━━━━━━━━━ 8s 4ms/step - accuracy: 0.9979 - loss: 0.0071 - val_accuracy: 0.9906 - val_loss: 0.0367
+
 Epoch 9/10
+
 1875/1875 ━━━━━━━━━━━━━━━━━━━━ 8s 4ms/step - accuracy: 0.9987 - loss: 0.0047 - val_accuracy: 0.9902 - val_loss: 0.0356
+
 Epoch 10/10
+
 1875/1875 ━━━━━━━━━━━━━━━━━━━━ 7s 4ms/step - accuracy: 0.9987 - loss: 0.0043 - val_accuracy: 0.9905 - val_loss: 0.0408
 
 ![Handwritten Digit Recognition](https://github.com/user-attachments/assets/e1c734b0-0425-4388-aa7c-039a75851b7c)
